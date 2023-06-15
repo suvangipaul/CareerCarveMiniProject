@@ -1,0 +1,15 @@
+.app {
+    width: 60vw;
+    @media(max-width: 780px) {
+        width: 95vw !important;
+    }
+}
+
+.title {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul {
+    padding: 0px;
+}
